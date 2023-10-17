@@ -1,1 +1,11 @@
 Introduction to the Course Verilog_FPGA using XilinxISE
+
+Work On : HDL [Hardware Description Langauage]
+practice so that we dont make it [Hard Difficult Language] !!
+
+Main things follow the HDL:
+* Vivado RTL Tool Flow, Vivado IPI
+* Understanding of FPGA Architecture
+* Verilog Constructs
+* Data
+* Timing 
